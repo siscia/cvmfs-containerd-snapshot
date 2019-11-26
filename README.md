@@ -1,0 +1,1 @@
+# cvmfs-containerd-snapshot
